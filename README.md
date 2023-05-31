@@ -22,6 +22,8 @@ Sol: Greedy, Deque.
 
 AC count: 48
 
+Sol: Enumeration.
+
 ### A, Allergen Testing
 
 AC count: 34
