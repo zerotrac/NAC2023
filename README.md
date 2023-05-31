@@ -34,6 +34,8 @@ Sol: Math, Binary Search.
 
 AC count: 31
 
+Sol: Sorting, BFS.
+
 ### L, Splitting Pairs
 
 AC count: 17
