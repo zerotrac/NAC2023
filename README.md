@@ -4,7 +4,7 @@
 
 AC count: 51
 
-Sol: Enumeration, Check.
+Sol: Enumeration, Prime Check.
 
 ### F, Four Square
 
