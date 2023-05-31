@@ -28,6 +28,8 @@ Sol: Enumeration.
 
 AC count: 34
 
+Sol: Math, Binary Search.
+
 ### C, Broken Minimum Spanning Tree
 
 AC count: 31
