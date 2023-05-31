@@ -16,6 +16,8 @@ Sol: DFS.
 
 AC count: 49
 
+Sol: Greedy, Deque.
+
 ### K, Space Alignment
 
 AC count: 48
